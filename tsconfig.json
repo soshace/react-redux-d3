@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "module": "es2015",
+    "moduleResolution": "node",
+    "target": "es6",
+    "sourceMap": true,
+    "experimentalDecorators": true,
+    "jsx": "react"
+  },
+  "include": [
+    "app/*",
+    "app/**/*"
+  ]
+}

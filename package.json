@@ -1,0 +1,32 @@
+{
+  "name": "vuejs-d3.js",
+  "version": "1.0.0",
+  "description": "D3.js + Vue",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot --inline --history-api-fallback"
+  },
+  "repository": "https://github.com/StepanZharychev/vue-ts-webpack.git",
+  "author": "Stepan Zharychev",
+  "license": "ISC",
+  "dependencies": {
+    "@types/d3": "^4.11.0",
+    "@types/geojson": "1.0.6",
+    "@types/react": "^16.0.25",
+    "@types/react-dom": "^16.0.3",
+    "@types/react-redux": "^5.0.14",
+    "@types/redux-actions": "^2.2.3",
+    "css-loader": "^0.27.3",
+    "d3": "^4.11.0",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-actions": "^2.2.1",
+    "style-loader": "^0.16.0",
+    "ts-loader": "^2.0.3",
+    "typescript": "^2.3.4",
+    "webpack": "^2.3.2",
+    "webpack-dev-server": "^2.4.2"
+  }
+}
